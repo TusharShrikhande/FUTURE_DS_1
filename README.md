@@ -22,4 +22,4 @@ Total sales value (Sum of Unit Price)
 Individual product-level pricing insights
 🔍 Interactive Filtering
 Drill-through and filtering capabilities (e.g., Quantity filter applied)
-Enables focused analysis on specific conditions
+Enables focused analysis on specific conditions.
